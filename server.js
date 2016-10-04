@@ -7,17 +7,17 @@ app.use(morgan('combined'));
 
 var articles={
  'article-one':{
-    title:'Article one | T Venkatesh',
+    title:'Article one | Raghav Fan of PK',
     heading:'Article one',
     date:'sept 30 , 2016',
     content: `  <p>
-                I am T Venkatesh pursuing my Btech in ECE in LPU in Punjab . I am Born and brought up in Mahbubnagar in Telangana State.
+                I am Raghavendra pursuing my Btech in ECE in LPU in Punjab . I am Born and brought up in Vijayawada in Andhra Pradesh State.
                 This is my first web app i am very thankful to IMAD Team for helping me in making my first webpage 
             </p> 
             <p>
                In this webpage I am going to introduce about one of the best innovative companies in the world ROBERT BOSCH
             </p>
-             <img src="http://www.azquotes.com/picture-quotes/quote-i-would-rather-lose-money-than-trust-robert-bosch-73-41-22.jpg" />
+             <img src="http://rightyaleft.com/wp-content/uploads/2011/06/rajnikanth.jpg" />
              <p>
             In 1886, Robert Bosch founded the Workshop for Precision Mechanics and Electrical Engineering in Stuttgart. This was the birth of todays globally active Robert Bosch GmbH. From the very beginning, the companys history has been characterized by innovative drive and social commitment. We have compiled the highlights from over 130 years in our archives
             </p> 
