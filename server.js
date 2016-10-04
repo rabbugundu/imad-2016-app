@@ -25,7 +25,7 @@ var articles={
             At Bosch ConnectedWorld 2016, the Bosch Groups CEO Volkmar Denner launched the Bosch IoT Cloud. This is a very significant step in the companys ongoing work to build up an IoT infrastructure. Boschs own cloud underpins the compans overarching connectivity strategy i.e a strategy that aims to design and launch new business models and services in the fields of connected mobility, smart homes.
             </p>
             <p> Key points of BOSCH are : </p>
-            <ol>
+            <ul>
             <li> Bosch launched its own cloud for IOT services</li>
              <li> Bosch is  leading supplier of automotive components world wide</li>
               <li> Major competitor is Delphi automotive systems</li>
@@ -36,7 +36,7 @@ In India, Bosch is a leading supplier of technology and services in the areas of
  Consumer Goods</li>
  <li> more than 2 million diesel engines sold by bosch every year </li>
  <li> bosch spend 4 billion euros for research and development every year and we have 15 patents per day </li>
-            </ol> 
+            </ul> 
             <p> End of My First Web Page </p> `
 },
 'article-two':{
