@@ -1,7 +1,13 @@
-body {
-    font-family: sans-serif;
-    background-color: white;
-    margin-top: 75px;
+.attach{
+ color:rgba(245, 56, 56, 0.73);
+     text-transform:uppercase;
+     font-weight:bold;
+    
+}
+
+body{
+    background:url(https://captureuniverse.files.wordpress.com/2010/06/stars-tiger-blue-black.jpg);
+    background-size:cover;
 }
 
 .center {
@@ -17,10 +23,38 @@ body {
 }
 
 .img-medium {
-    height: 200px;
+    width:100px;
+    height:100px;
+    border:3px solid rgb(22,77,100);
+    border-radius:100%;
+}
+ .container{
+            margin: 0 auto;
+            color: 	#000000;
+            font-family: Garmond,Times,serif;
+            padding-left:5px;
+            padding-right:5px;
+            text-align: center;
+        }
+ .heading{
+     color:rgba(245, 56, 56, 0.73);
+ }
+ .info{
+    color:rgba(16, 136, 188, 0.87);
+ }
+ .one{
+     text-align:center;
+     text-transform:uppercase;
+     font-weight:bold;
+     color:rgba(179, 0, 0, 1);
+ }
+
+.two{
+     text-align:center;
+     text-transform:uppercase;
+     font-weight:bold;
+    color:rgba(255, 255, 255, 1);
 }
 
-.container{
-    color: blue;
-    
-}
+
+
