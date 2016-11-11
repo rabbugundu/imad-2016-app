@@ -37,24 +37,12 @@ body{
             text-align: center;
         }
  .heading{
-     color:rgba(245, 56, 56, 0.73);
+     color:rgb(244, 66, 66);
  }
  .info{
-    color:rgba(16, 136, 188, 0.87);
+    color:rgb(191, 244, 66);
  }
- .one{
-     text-align:center;
-     text-transform:uppercase;
-     font-weight:bold;
-     color:rgba(179, 0, 0, 1);
- }
-
-.two{
-     text-align:center;
-     text-transform:uppercase;
-     font-weight:bold;
-    color:rgba(255, 255, 255, 1);
-}
+ 
 
 
 
